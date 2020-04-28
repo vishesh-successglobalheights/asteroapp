@@ -66,3 +66,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+echo "# asteroapp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vishesh-successglobalheights/asteroapp.git
+git push -u origin master
+                
+
+
+                git remote add origin https://github.com/vishesh-successglobalheights/asteroapp.git
+git push -u origin master
